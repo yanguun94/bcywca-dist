@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.4914f7bd.css",
-    "main.js": "/static/js/main.ec970261.js",
+    "main.js": "/static/js/main.54b33578.js",
     "static/media/jium.png": "/static/media/jium.796d7fbb3fc882113395.png",
     "static/media/piece-of-peace.png": "/static/media/piece-of-peace.225bdeb2b315c5ea8bb3.png",
     "static/media/world-ywca.png": "/static/media/world-ywca.7796d6dcce6c43d26d54.png",
@@ -11,10 +11,10 @@
     "static/media/korea-ywca.png": "/static/media/korea-ywca.ebc7584950e2fd88f5ab.png",
     "index.html": "/index.html",
     "main.4914f7bd.css.map": "/static/css/main.4914f7bd.css.map",
-    "main.ec970261.js.map": "/static/js/main.ec970261.js.map"
+    "main.54b33578.js.map": "/static/js/main.54b33578.js.map"
   },
   "entrypoints": [
     "static/css/main.4914f7bd.css",
-    "static/js/main.ec970261.js"
+    "static/js/main.54b33578.js"
   ]
 }
